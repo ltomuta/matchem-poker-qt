@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="change.wav">audio/change.wav</file>
+        <file alias="change_completed.wav">audio/change_completed.wav</file>
+        <file alias="click.wav">audio/click.wav</file>
+        <file alias="destroy.wav">audio/destroy.wav</file>
+        <file alias="exp_bonus.wav">audio/exp_bonus.wav</file>
+        <file alias="fanfare.wav">audio/fanfare.wav</file>
+        <file alias="game_over.wav">audio/game_over.wav</file>
+        <file alias="illegal_move.wav">audio/illegal_move.wav</file>
+        <file alias="next_level.wav">audio/next_level.wav</file>
+        <file alias="xbonus.wav">audio/xbonus.wav</file>
+    </qresource>
+</RCC>

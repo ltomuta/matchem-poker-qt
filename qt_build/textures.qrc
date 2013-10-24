@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="dice_pause_play.png">graphics/dice_pause_play.png</file>
+        <file alias="font.png">graphics/font.png</file>
+        <file alias="logo.png">graphics/logo.png</file>
+        <file alias="menu_bg.png">graphics/menu_bg.png</file>
+        <file alias="particles.png">graphics/particles.png</file>
+        <file alias="playing_cards.png">graphics/playing_cards.png</file>
+        <file alias="playing_cards_selected.png">graphics/playing_cards_selected.png</file>
+        <file alias="timer_frames.png">graphics/timer_frames.png</file>
+        <file alias="timer_numbers.png">graphics/timer_numbers.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+matchempoker (1.2.0) unstable; urgency=low
+  * Sprite Batch design pattern integrated.
+
+ -- Nokia Developer <>  Mon, 21 Nov 2011 12:35:15 +0200
+
+matchempoker (1.1.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Forum Nokia <FN.Documentation@nokia.com>  Wed, 15 Jun 2011 11:45:00 +0300
